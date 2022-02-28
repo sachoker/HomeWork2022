@@ -1,2 +1,6 @@
 networkx~=2.6.3
 imagegen~=0.2
+numpy~=1.22.2
+asyncio~=3.4.3
+aiomisc~=15.6.8
+aiohttp~=3.8.1
